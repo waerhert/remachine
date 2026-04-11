@@ -1,4 +1,4 @@
 export * from './types.js';
-export * from './Machine.js';
-export * from './Middleware.js';
+export * from './machine.js';
+export * from './middleware.js';
 export * from './utils.js';
