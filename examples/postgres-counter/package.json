@@ -1,0 +1,11 @@
+{
+  "name": "example-postgres-counter",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "up": "docker compose up -d",
+    "down": "docker compose down",
+    "cli": "tsx ./cli.ts"
+  }
+}
